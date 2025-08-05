@@ -1,31 +1,28 @@
-<!--
-**stelmakhivan/stelmakhivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 
 <h1 align="center">Hi 👋, I'm Ivan Stelmakh </h1>
-<h3 align="center">Front-End Developer (Currently working with React Native (ios, android, web) + Expo framework)</h3>
+<h3 align="center">Senior Software Engineer (React / React Native)</h3>
+
+<h1>About</h1>
+Full-Stack Software Engineer with a strong focus on React Native and React development, complemented by extensive experience in building scalable, user-centric applications.
+
+While I specialize in front-end and mobile development, my skill set extends to back-end technologies, cloud services, and infrastructure, enabling me to deliver end-to-end solutions.
+
+**Core Expertise:**
+
+1. Front-end and mobile: React Native, React, Redux, MobX, TypeScript, and responsive UI libraries.
+2. Back-end and cloud: Familiar with Node.js, AWS services (Lambda, DynamoDB, AppSync, Amplify), MySQL, and serverless architectures.
+3. Testing and automation: Hands-on experience with E2E testing (Detox, Cypress), unit testing (Jest), and CI/CD pipelines (Bitrise, GitHub Actions, CircleCI).
+4. DevOps and optimization: Skilled in integrating CI/CD pipelines and optimizing infrastructure for scalability and maintainability.
+5. Native integrations: Developed native modules for React Native using Swift and Kotlin, ensuring seamless integration with mobile applications.
+6. Browser extensions: Created Chrome extensions to enhance web application functionality and user experience.
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/stelmakhivan?tab=repositories)
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **stelmakh.developer@gmail.com**
+- 📫 How to reach me: **stelmakh.developer@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/ivan-stelmakh/)
 
 
 <p align="center"> 
